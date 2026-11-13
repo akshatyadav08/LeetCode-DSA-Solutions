@@ -45,13 +45,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/0435-non-overlapping-intervals) |
+| [0763-partition-labels](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Two Pointers
 |  |
 | ------- |
+| [0763-partition-labels](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
 | [2406-divide-intervals-into-minimum-number-of-groups](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/2406-divide-intervals-into-minimum-number-of-groups) |
+## Hash Table
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
+## String
+|  |
+| ------- |
+| [0763-partition-labels](https://github.com/akshatyadav08/LeetCode-DSA-Solutions/tree/master/0763-partition-labels) |
 <!---LeetCode Topics End-->
